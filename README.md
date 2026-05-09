@@ -30,7 +30,7 @@ This project is part of my **Data Science & Analytics Internship** at **Future I
 * Actionable business recommendations for campaign optimization.
 
 ## Power BI Dashboard
-Link to visualizations, funnel insights, and campaign performance dashboard: [INSERT_YOUR_POWER_BI_LINK_HERE]
+Link to visualizations, funnel insights, and campaign performance dashboard: [https://app.powerbi.com/view?r=eyJrIjoiZWE3YjA4YmQtMWZhZC00OTdjLTllOTItNTg0NDZkOGI5YzQ3IiwidCI6IjRiMWI5MDhjLTU1ODItNDM3Ny1iYTA3LWEzNmQ2NWUzNDkzNCIsImMiOjh9]
 
 ## Visualizations & Analysis
 The project includes deep-dives into:
